@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ef3x0s" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="ef3x0s" height="30" width="40" /></a>
-<a href="https://instagram.com/subh.0x" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFV5uL-Ai4_Wr1F-dVgYq_Hx1Q8d-PdTIcgjwLQLc7g&s" alt="subh.0x" height="30" width="40" /></a>
+<a href="https://twitter.com/ef3x0s" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="ef3x0s" height="30" width="30" /></a>
+<a href="https://instagram.com/subh.0x" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFV5uL-Ai4_Wr1F-dVgYq_Hx1Q8d-PdTIcgjwLQLc7g&s" alt="subh.0x" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
